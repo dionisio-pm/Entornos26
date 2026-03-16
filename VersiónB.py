@@ -1,0 +1,1 @@
+print('Versión B de mi programa')
